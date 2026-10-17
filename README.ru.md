@@ -12,9 +12,9 @@ Windows · macOS · Linux
 
 [![Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/flowvy/desktop/badges/release.json&style=flat-square)](https://github.com/flowvy/desktop/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/flowvy/desktop/badges/downloads.json&style=flat-square)](https://github.com/flowvy/desktop/releases)
-[![Telegram](https://img.shields.io/badge/Telegram-%40flowvy__client-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/flowvy_client)
+[![Telegram](https://img.shields.io/badge/Telegram-%40flowvy__group-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/flowvy_group)
 
-[**Скачать**](#установка) · [**Документация**](https://docs.flowvy.io/) · [**Telegram**](https://t.me/flowvy_client)
+[**Скачать**](#установка) · [**Документация**](https://docs.flowvy.io/) · [**Telegram**](https://t.me/flowvy_group)
 
 <br>
 
@@ -56,7 +56,7 @@ Windows · macOS · Linux
 
 ## Сообщество и поддержка
 
-- [Telegram-группа](https://t.me/flowvy_client) — новости, обсуждения, помощь
+- [Telegram-группа](https://t.me/flowvy_group) — новости, обсуждения, помощь
 - [Issues](https://github.com/flowvy/desktop/issues) — баг-репорты и предложения
 - [Документация](https://docs.flowvy.io/) — инструкции по всем функциям
 

@@ -12,9 +12,9 @@ Windows · macOS · Linux
 
 [![Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/flowvy/desktop/badges/release.json&style=flat-square)](https://github.com/flowvy/desktop/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/flowvy/desktop/badges/downloads.json&style=flat-square)](https://github.com/flowvy/desktop/releases)
-[![Telegram](https://img.shields.io/badge/Telegram-%40flowvy__client-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/flowvy_client)
+[![Telegram](https://img.shields.io/badge/Telegram-%40flowvy__group-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/flowvy_group)
 
-[**Download**](#installation) · [**Documentation**](https://docs.flowvy.io/) · [**Telegram**](https://t.me/flowvy_client)
+[**Download**](#installation) · [**Documentation**](https://docs.flowvy.io/) · [**Telegram**](https://t.me/flowvy_group)
 
 <br>
 
@@ -56,7 +56,7 @@ All versions are on the [releases](https://github.com/flowvy/desktop/releases) p
 
 ## Community and support
 
-- [Telegram group](https://t.me/flowvy_client) — news, discussion, and help
+- [Telegram group](https://t.me/flowvy_group) — news, discussion, and help
 - [Issues](https://github.com/flowvy/desktop/issues) — bug reports and suggestions
 - [Documentation](https://docs.flowvy.io/) — guides for every feature
 
